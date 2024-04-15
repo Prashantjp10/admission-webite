@@ -57,6 +57,10 @@
       width: 100%;
       padding: 10px;
    }
+   .home-section {
+      display: flex;
+      flex-direction: column;
+   }
 }
 @media only screen and (max-width: 992px) {
    .lander-height img {
